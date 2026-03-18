@@ -3,3 +3,4 @@
 - 16:52 (yjhss) - [#9] feat: member-hong 문서 추가
 - 17:01 (daegoo529) - [#8] feat : add member-kim docs
 - 15:14 (YoonhyeSuh) - [#11] feat: add member suh
+- 15:21 (hamlsy) - [#18] docs: add member link
