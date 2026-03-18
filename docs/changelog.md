@@ -1,1 +1,2 @@
-16:08 (hamlsy) - [#6] feat: add member-lee docs
+- 16:08 (hamlsy) - [#6] feat: add member-lee docs
+- 16:26 (yjhss) - [#9] feat: member-hong 문서 추가
