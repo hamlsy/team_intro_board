@@ -13,10 +13,10 @@
 
 ### 멤버
 
-- [이승영](docs/members/member-lee.md)
-- [김대구](docs/members/member-kim.md)
-- [서윤혜](docs/members/member-suh.md)
-- [홍유진](docs/members/member-hong.md)
+- [이승영](../docs/members/member-lee.md)
+- [김대구](../docs/members/member-kim.md)
+- [서윤혜](../docs/members/member-suh.md)
+- [홍유진](../docs/members/member-hong.md)
 
 
 ### 작업 로그
