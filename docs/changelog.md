@@ -2,5 +2,6 @@
 - 16:36 (YoonhyeSuh) - [#7] feat: 맛집 1 문서 작성
 - 16:52 (yjhss) - [#9] feat: member-hong 문서 추가
 - 17:01 (daegoo529) - [#8] feat : add member-kim docs
-- 15:14 (YoonhyeSuh) - [#11] feat: add member suh
-- 15:21 (hamlsy) - [#18] docs: add member link
+- 17:14 (YoonhyeSuh) - [#11] feat: add member suh
+- 17:19 (yjhss) - [#16] feat: topic-2 문서 추가
+- 17:21 (hamlsy) - [#18] docs: add member link

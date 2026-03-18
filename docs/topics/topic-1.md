@@ -1,12 +1,10 @@
-bnㅜ## 맛집 정보
+## 맛집 정보
 
 > 추천하는 맛집 정보를 작성합니다.
+> 
+#### 🔗 링크: https://naver.me/54LbknzD
 
 ![alt text](./images/topic-1.png)
-
-#### 🔗 링크
-
-https://naver.me/54LbknzD
 
 ### ☑️ 이름
 
