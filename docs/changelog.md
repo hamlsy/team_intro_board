@@ -5,3 +5,4 @@
 - 17:14 (YoonhyeSuh) - [#11] feat: add member suh
 - 17:19 (yjhss) - [#16] feat: topic-2 문서 추가
 - 17:21 (hamlsy) - [#18] docs: add member link
+- 21:40 (daegoo529) - [#21] feat : add summary

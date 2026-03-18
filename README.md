@@ -62,7 +62,7 @@ team-project/
 | 6  | 2026.03.18 17:14 | member-suh.md 추가, changelog.md 수정, README.md 수정  | 서윤혜 |
 | 7  | 2026.03.18 17:19 |   topic-2.md 추가, changelog.md 수정, README.md 수정   | 홍유진 |
 | 8  | 2026.03.18 17.21 | member linking 추가, changelog.md 수정, README.md 수정  | 이승영 |
-
+| 9  | 2026.03.18 21:45 |       summary 추가, changelog.md 수정, README.md 수정  | 김대구 |
 
 ## 충돌 유도 포인트
 - README.md 수정 이력 테이블
