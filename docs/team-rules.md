@@ -20,6 +20,13 @@ feature/이슈번호-작업내용
 - feature/2-member-a
 - feature/3-readme-update
 
+## 2.1 Merge Flow
+(feature) -> deploy -> main
+
+deploy에서 분기 후 deploy로 merge,
+
+추후 배포시 deploy->release->main
+
 ---
 
 ## 3. Commit Convention
