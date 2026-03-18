@@ -52,5 +52,6 @@ team-project/
 | 2 | 2026.03.18 16:07 | member-lee 작성 |
 
 
+
 ## 충돌 유도 포인트
 README.md 수정 이력 테이블
