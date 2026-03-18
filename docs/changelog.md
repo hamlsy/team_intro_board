@@ -1,0 +1,1 @@
+- 16:38 (daegoo529) - [#8] feat : add member-kim docs

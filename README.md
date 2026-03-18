@@ -1,11 +1,13 @@
 # 🍽️ Team Project - 맛집 추천
 
 ## 📌 프로젝트 소개
+
 우리 팀의 맛집 추천 및 팀 소개 프로젝트입니다.
 
 ---
 
 ## 👥 팀원 소개
+
 - [이승영](docs/members/member-a.md)
 - [Member B](docs/members/member-b.md)
 
@@ -13,13 +15,14 @@
 
 ## 📍 맛집 추천
 
-
 ---
 
 ## 📜 팀 규칙
+
 - [Team Rules](docs/team-rules.md)
 
 ## 저장소 구조
+
 ```
 team-project/
 ├─ README.md
@@ -37,6 +40,7 @@ team-project/
 └─ data/
    └─ summary.md
 ```
+
 - `README.md`: 메인 소개 페이지 + 수정 이력 테이블 + 충돌 유도 포인트
 - `docs/team-rules.md`: 팀 규칙
 - `docs/members/*.md`: 각자 담당 산출물
@@ -44,12 +48,13 @@ team-project/
 - `docs/changelog.md`: 작업 로그
 - `data/summary.md`: 최종 요약
 
-
 ## 수정 이력 테이블
-| 번호 | 작업 날짜 | 작업 내용 |
-|:---:|:---:|:---:|
-| 1 | 2026.03.18.15:18 | README.md 작성 |
 
+| 번호 |    작업 날짜     |    작업 내용    |
+| :--: | :--------------: | :-------------: |
+|  1   | 2026.03.18.15:18 | README.md 작성  |
+|  2   | 2026.03.18.16:28 | member-kim 작성 |
 
 ## 충돌 유도 포인트
+
 README.md 수정 이력 테이블
