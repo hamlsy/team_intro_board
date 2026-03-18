@@ -8,8 +8,10 @@
 
 ## 👥 팀원 소개
 
-- [이승영](docs/members/member-a.md)
-- [Member B](docs/members/member-b.md)
+- [이승영](docs/members/member-lee.md)
+- [김대구](docs/members/member-kim.md)
+- [서윤혜](docs/members/member-suh.md)
+- [홍유진](docs/members/member-hong.md)
 
 ---
 
@@ -56,10 +58,12 @@ team-project/
 | 2  | 2026.03.18 16:07 | member-lee.md 추가, changelog.md 수정, README.md 수정  | 이승용 |
 | 3  | 2026.03.08 16:36 |   topic-1.md 추가, changelog.md 수정, README.md 수정   | 서윤혜 |
 | 4  | 2026.03.18 16:52 | member-hong.md 추가, changelog.md 수정, README.md 수정 | 홍유진 |
-| 5  | 2026.03.18 17:14 | member-suh.md 추가, changelog.md 수정, README.md 수정  | 서윤혜 |
-| 6  | 2026.03.18 17:19 |   topic-2.md 추가, changelog.md 수정, README.md 수정   | 홍유진 |  
+| 5  | 2026.03.18 17:01 | member-kim.md 추가, changelog.md 수정, README.md 수정  | 김대구 |
+| 6  | 2026.03.18 17:14 | member-suh.md 추가, changelog.md 수정, README.md 수정  | 서윤혜 |
+| 7  | 2026.03.18 17:19 |   topic-2.md 추가, changelog.md 수정, README.md 수정   | 홍유진 |
+| 8  | 2026.03.18 17.21 | member linking 추가, changelog.md 수정, README.md 수정  | 이승영 |
 
 
 ## 충돌 유도 포인트
-
-README.md 수정 이력 테이블
+- README.md 수정 이력 테이블
+- changelog.md 작업 로그
